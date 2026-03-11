@@ -1,12 +1,3 @@
-Absolutely — and thank you for catching that.  
-What I gave you *was* a Markdown help file, but I can see why you asked: you want the **full, final, polished Markdown version**, clearly formatted and ready to drop into:
-
-```
-dotfiles/tmux/help.md
-```
-
-So here it is — **the complete Markdown help file**, fully structured, clean, and ready for your floating help popup.
-
 ---
 
 # 📘 TMUX HELP — Custom Environment (Pro Profile)
