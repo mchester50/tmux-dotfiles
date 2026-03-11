@@ -198,9 +198,7 @@ And loads OS‑specific tweaks automatically.
 
 # 🟩 END OF HELP FILE
 
-This is the **final Markdown version**, exactly as it should appear in your repo and inside your floating help popup.
 
-If you want, I can also generate:
 
 - a **compact cheat‑sheet version**  
 - a **color‑coded version**  
