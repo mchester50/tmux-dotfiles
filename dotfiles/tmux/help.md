@@ -1,5 +1,3 @@
----
-
 # 📘 TMUX HELP — Custom Environment (Pro Profile)
 
 ## 🟩 PREFIX
